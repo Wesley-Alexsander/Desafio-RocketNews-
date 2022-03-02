@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&family=Work+Sans:wght@700&display=swap');
+
+:root {
+  --body-bg-color: #121214;
+  --text-color: #e1e1e6;
+  --title-color: #04d361;
+  --form-color: #a8a8a8;
+  --bg-button-color: #8257e5;
+  --normal-font-size: 0.875rem;
+  --main-title-size: 1.5rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: var(--main-title-size);
+  color: var(--title-color);
+  font-family: 'Work Sans', sans-serif;
+}
+
+p {
+  font-family: 'Spartan', sans-serif;
+  color: var(--text-color);
+  padding: 5px 0;
+}
+
+.text-container p:nth-child(2) {
+  color: var(--text-color);
+  font-weight: bold;
+}
+
+main {
+  height: 100vh;
+}
+
+.main-bg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 9%;
+  overflow: hidden;
+}
+
+label {
+  display: block;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.content {
+  background-color: var(--body-bg-color);
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.logo-container {
+  width: 24.9rem;
+  height: 5.8rem;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.text-container {
+  margin: 92px 30px;
+}
+
+
+/*================= form =================*/
+
+.input-container {
+  background-color: #a8a8a8;
+  position: fixed;
+  display: flex;
+
+
+}
+
+form {
+  margin: 50px 0px;
+  color: var(--form-color);
+  font-family: 'Spartan', sans-serif;
+  font-weight: 700;
+}
+
+form input {
+  height: 53px;
+  width: 750px;
+  /* background-color: transparent; */
+  outline: none;
+}
+
+.send {
+  background-color: var(--bg-button-color);
+  padding: 14px;
+  
+  
+}
