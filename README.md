@@ -26,6 +26,12 @@ Desenvolva uma página web simples utilizando HTML e CSS que servirá no futuro 
 <img src="./assets/rocketnews.png">
 </p>
 
+<p Align="center">
+<a hrf="https://wesley-alexsander.github.io/Desafio-RocketNews-/">RocketNews by Wesley Alexsander</a>
+</p>
+
+
+
 <br/>
 <br/>
 
