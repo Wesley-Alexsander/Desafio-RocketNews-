@@ -22,7 +22,9 @@
 Desenvolva uma página web simples utilizando HTML e CSS que servirá no futuro para captação de leads ou inscrição em newsletter.
 </p>
 
+<p>
 <img src="./assets/rocketnews.png">
+</p>
 
 <br/>
 <br/>
@@ -31,30 +33,33 @@ Desenvolva uma página web simples utilizando HTML e CSS que servirá no futuro 
 
 Neste desafio você vai construir uma página para a captação de leads ou newsletter. Caso você ainda não tenha feito os cursos do Discover ou queira fazer uma revisão, segue abaixo uma lista dos cursos que podem te ajudar a resolver este desafio.
 
-- [O guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html) 
-- [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css) 
-- [Posicionando foguetes](https://app.rocketseat.com.br/node/posicionando-foguetes) 
-- [Formulários de outro planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta) 
+- [O guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)
+- [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)
+- [Posicionando foguetes](https://app.rocketseat.com.br/node/posicionando-foguetes)
+- [Formulários de outro planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta)
 
 <br/>
 <br/>
 
 # 🎨 **Style Guide**
+
 ## **Cores:**
 
 ```css
 :root {
   --body-bg-color: #121214;
-  --text-color: #E1E1E6;
-  --title-color: #04D361;
-  --form-color: #A8A8A8;
+  --text-color: #e1e1e6;
+  --title-color: #04d361;
+  --form-color: #a8a8a8;
   --bg-button-color: #8257e5;
 }
 ```
 
 ## **Tipo de fonte:**
+
 ---
-font-family: Spartan, Work Sans 
+
+font-family: Spartan, Work Sans
 
 font-weight: 400, 500, 700
 
