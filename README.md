@@ -43,7 +43,7 @@ Neste desafio você vai construir uma página para a captação de leads ou news
 
 # 🎨 **Style Guide**
 
-## **Cores:**
+**Cores:**
 
 ```css
 :root {
@@ -57,7 +57,6 @@ Neste desafio você vai construir uma página para a captação de leads ou news
 
 ## **Tipo de fonte:**
 
----
 
 font-family: Spartan, Work Sans
 
